@@ -37,14 +37,14 @@
 
 # Forensics
 
-|                       Challenge                       |    Author    | Category | Solves |
-| :---------------------------------------------------: | :-----------: | :-------: | -----: |
-|      [Thanh Hoa 1](<./Forensics/Thanh%20Hoa%201>)      |   itzdenki   | forensics |    115 |
-|      [Thanh Hoa 2](<./Forensics/Thanh%20Hoa%202>)      |   itzdenki   | forensics |    111 |
-|      [World Cup 1](<./Forensics/World%20Cup%201>)      |   itzdenki   | forensics |    220 |
-|      [World Cup 2](<./Forensics/World%20Cup%202>)      |   itzdenki   | forensics |    210 |
-| [Follow The Layer](<./Forensics/Follow%20The%20layer>) | Baby Ovaltine | forensics |     96 |
-|           [Echoes](<./Forensics/Echoes%20>)           | Baby Ovaltine | forensics |     26 |
+|                            Challenge                            |    Author    | Category | Solves |
+| :-------------------------------------------------------------: | :-----------: | :-------: | -----: |
+|      [Thanh Hoa 1](<./Forensics/Thanh%20Hoa%201/README.md>)      |   itzdenki   | forensics |    115 |
+|      [Thanh Hoa 2](<./Forensics/Thanh%20Hoa%202/README.md>)      |   itzdenki   | forensics |    111 |
+|      [World Cup 1](<./Forensics/World%20Cup%201/README.md>)      |   itzdenki   | forensics |    220 |
+|      [World Cup 2](<./Forensics/World%20Cup%202/README.md>)      |   itzdenki   | forensics |    210 |
+| [Follow The Layer](<./Forensics/Follow%20The%20layer/README.md>) | Baby Ovaltine | forensics |     96 |
+|              [Echoes](./Forensics/Echoes/README.md)              | Baby Ovaltine | forensics |     26 |
 
 # Osint
 
